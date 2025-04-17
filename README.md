@@ -1,7 +1,7 @@
 # Eclipse FA³ST Parent
 
-![FA³ST Logo Light](./docs/images/fa3st-positive.png/#gh-light-mode-only "FA³ST Service Logo")
-![FA³ST Logo Dark](./docs/images/fa3st-negative.png/#gh-dark-mode-only "FA³ST Service Logo")
+![FA³ST Logo Light](./docs/images/fa3st-positive.svg/#gh-light-mode-only "FA³ST Service Logo")
+![FA³ST Logo Dark](./docs/images/fa3st-negative.svg/#gh-dark-mode-only "FA³ST Service Logo")
 
 This is the parent POM of the Eclipse FA³ST Ecosystem.
 
