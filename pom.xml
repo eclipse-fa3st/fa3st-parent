@@ -46,8 +46,6 @@
         <commons.fileupload.version>1.5</commons.fileupload.version>
         <commons.io.version>2.18.0</commons.io.version>
         <commons.lang3.version>3.17.0</commons.lang3.version>
-        <container.image.name>fraunhoferiosb/faaast-service</container.image.name>
-        <container.image.tag>latest</container.image.tag>
         <de.flapdoodle.embed.version>4.20.0</de.flapdoodle.embed.version>
         <eclipse.jdt.version>4.32</eclipse.jdt.version>
         <equalsverifier.version>3.19.1</equalsverifier.version>
@@ -510,11 +508,6 @@
                 <version>${fa3st.common.version}</version>
                 <classifier>tests</classifier>
                 <scope>test</scope>
-            </dependency>
-            <dependency>
-                <groupId>org.eclipse.digitaltwin.fa3st</groupId>
-                <artifactId>fa3st-parent</artifactId>
-                <version>${fa3st.codestyle.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.eclipse.jetty</groupId>
