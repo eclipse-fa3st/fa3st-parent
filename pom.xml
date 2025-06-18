@@ -46,6 +46,7 @@
         <commons.fileupload.version>1.5</commons.fileupload.version>
         <commons.io.version>2.18.0</commons.io.version>
         <commons.lang3.version>3.17.0</commons.lang3.version>
+        <dash.fail>true</dash.fail>
         <de.flapdoodle.embed.version>4.20.0</de.flapdoodle.embed.version>
         <eclipse.jdt.version>4.32</eclipse.jdt.version>
         <equalsverifier.version>3.19.1</equalsverifier.version>
