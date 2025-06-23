@@ -67,7 +67,7 @@
         <jetty.version>12.0.18</jetty.version>
         <json-patch.version>1.13</json-patch.version>
         <json-smart.version>2.5.2</json-smart.version>
-        <json-unit-assertj.version>4.1.0</json-unit-assertj.version>
+        <json-unit-assertj.version>4.1.1</json-unit-assertj.version>
         <jsonpath.version>2.9.0</jsonpath.version>
         <junit.version>4.13.2</junit.version>
         <log4j-to-slf4j.version>2.24.3</log4j-to-slf4j.version>
