@@ -122,7 +122,7 @@
         <spring.web.version>6.2.5</spring.web.version>
         <systemstubs.version>2.1.7</systemstubs.version>
         <wiremock.version>3.12.1</wiremock.version>
-        <woodstox.version>7.1.0</woodstox.version>
+        <woodstox.version>7.1.1</woodstox.version>
     </properties>
     <dependencyManagement>
         <dependencies>
