@@ -88,7 +88,7 @@
         <maven.plugin.jar.version>3.4.2</maven.plugin.jar.version>
         <maven.plugin.javadoc.version>3.11.2</maven.plugin.javadoc.version>
         <maven.plugin.license.version>2.0.0</maven.plugin.license.version>
-        <maven.plugin.owasp.version>12.1.0</maven.plugin.owasp.version>
+        <maven.plugin.owasp.version>12.1.3</maven.plugin.owasp.version>
         <maven.plugin.picocli.version>4.7.6</maven.plugin.picocli.version>
         <maven.plugin.proguard.version>2.6.1</maven.plugin.proguard.version>
         <maven.plugin.prosys.codegen.version>5.2.4-127</maven.plugin.prosys.codegen.version>
@@ -98,27 +98,27 @@
         <maven.plugin.spotless.version>2.44.3</maven.plugin.spotless.version>
         <maven.plugin.surefire.version>3.5.2</maven.plugin.surefire.version>
         <milo.version>0.6.16</milo.version>
-        <mockito.version>5.16.0</mockito.version>
+        <mockito.version>5.18.0</mockito.version>
         <mongodb.version>5.4.0</mongodb.version>
         <moquette.version>0.15.2</moquette.version>
         <netty.version>4.1.119.Final</netty.version>
         <paho.version>1.2.5</paho.version>
         <parsson.version>1.1.7</parsson.version>
-        <picocli.version>4.7.6</picocli.version>
+        <picocli.version>4.7.7</picocli.version>
         <poi.ooxml.version>5.4.0</poi.ooxml.version>
         <postgres.version>42.7.7</postgres.version>
         <proguard.core.version>9.1.8</proguard.core.version>
         <proguard.version>7.6.1</proguard.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <prosys.sdk.version>5.2.8-159</prosys.sdk.version>
-        <protobuf.version>4.30.0</protobuf.version>
+        <protobuf.version>4.31.1</protobuf.version>
         <rgxgen.version>2.0</rgxgen.version>
         <root.basedir>${project.basedir}</root.basedir>
         <slf4j.ext.version>1.0.0-jdk6</slf4j.ext.version>
         <slf4j.test.version>3.0.1</slf4j.test.version>
         <slf4j.version>2.0.17</slf4j.version>
         <snakeyaml.version>2.3</snakeyaml.version>
-        <spring.boot.version>3.4.4</spring.boot.version>
+        <spring.boot.version>3.5.3</spring.boot.version>
         <spring.web.version>6.2.5</spring.web.version>
         <systemstubs.version>2.1.7</systemstubs.version>
         <wiremock.version>3.12.1</wiremock.version>
