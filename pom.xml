@@ -976,7 +976,7 @@
             <id>release</id>
             <properties>
                 <maven.javadoc.skip>false</maven.javadoc.skip>
-                <maven.test.skip>true</maven.test.skip>
+                <maven.test.skip>false</maven.test.skip>
             </properties>
             <build>
                 <plugins>
