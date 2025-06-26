@@ -99,7 +99,7 @@
         <maven.plugin.surefire.version>3.5.3</maven.plugin.surefire.version>
         <milo.version>0.6.16</milo.version>
         <mockito.version>5.18.0</mockito.version>
-        <mongodb.version>5.4.0</mongodb.version>
+        <mongodb.version>5.5.1</mongodb.version>
         <moquette.version>0.18.3</moquette.version>
         <netty.version>4.2.2.Final</netty.version>
         <paho.version>1.2.5</paho.version>
