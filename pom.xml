@@ -121,7 +121,7 @@
         <spring.boot.version>3.5.3</spring.boot.version>
         <spring.web.version>6.2.8</spring.web.version>
         <systemstubs.version>2.1.8</systemstubs.version>
-        <wiremock.version>3.12.1</wiremock.version>
+        <wiremock.version>3.13.1</wiremock.version>
         <woodstox.version>7.1.1</woodstox.version>
     </properties>
     <dependencyManagement>
