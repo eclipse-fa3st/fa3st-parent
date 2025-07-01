@@ -54,7 +54,7 @@
         <fa3st.common.version>1.0.0-SNAPSHOT</fa3st.common.version>
         <fa3st.service-endpoint-opcua.version>1.0.0-SNAPSHOT</fa3st.service-endpoint-opcua.version>
         <glassfish.jaxb-runtime>4.0.5</glassfish.jaxb-runtime>
-        <guava.version>33.4.0-jre</guava.version>
+        <guava.version>33.4.8-jre</guava.version>
         <h2.version>2.3.232</h2.version>
         <hibernate.version>7.0.3.Final</hibernate.version>
         <jackson.databind.version>2.18.3</jackson.databind.version>
