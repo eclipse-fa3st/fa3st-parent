@@ -70,7 +70,7 @@
         <json-unit-assertj.version>4.1.1</json-unit-assertj.version>
         <jsonpath.version>2.9.0</jsonpath.version>
         <junit.version>4.13.2</junit.version>
-        <log4j-to-slf4j.version>2.25.0</log4j-to-slf4j.version>
+        <log4j-to-slf4j.version>2.25.1</log4j-to-slf4j.version>
         <logback.version>1.5.18</logback.version>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
