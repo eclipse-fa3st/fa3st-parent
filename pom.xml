@@ -56,7 +56,7 @@
         <glassfish.jaxb-runtime>4.0.5</glassfish.jaxb-runtime>
         <guava.version>33.4.8-jre</guava.version>
         <h2.version>2.3.232</h2.version>
-        <hibernate.version>7.0.5.Final</hibernate.version>
+        <hibernate.version>7.1.0.Final</hibernate.version>
         <jackson.databind.version>2.18.3</jackson.databind.version>
         <jackson.version>2.19.2</jackson.version>
         <jakarta.json-api.version>2.1.2</jakarta.json-api.version>
