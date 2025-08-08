@@ -34,7 +34,7 @@
         <url>https://github.com/eclipse-fa3st/fa3st-parent/issues</url>
     </issueManagement>
     <properties>
-        <aas4j.version>1.0.4</aas4j.version>
+        <aas4j.version>1.0.5</aas4j.version>
         <apache.httpclient.version>5.5</apache.httpclient.version>
         <apache.httpcore.version>5.3.4</apache.httpcore.version>
         <assertj.version>3.27.3</assertj.version>
