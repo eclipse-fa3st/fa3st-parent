@@ -37,7 +37,7 @@
         <aas4j.version>1.0.5</aas4j.version>
         <apache.httpclient.version>5.5</apache.httpclient.version>
         <apache.httpcore.version>5.3.4</apache.httpcore.version>
-        <assertj.version>3.27.3</assertj.version>
+        <assertj.version>3.27.4</assertj.version>
         <awaitility.version>4.3.0</awaitility.version>
         <bouncycastle.version>1.81</bouncycastle.version>
         <checkstyle.version>10.26.1</checkstyle.version>
