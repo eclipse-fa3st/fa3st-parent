@@ -49,7 +49,7 @@
         <dash.fail>true</dash.fail>
         <de.flapdoodle.embed.version>4.21.0</de.flapdoodle.embed.version>
         <eclipse.jdt.version>4.32</eclipse.jdt.version>
-        <equalsverifier.version>4.0.7</equalsverifier.version>
+        <equalsverifier.version>4.0.9</equalsverifier.version>
         <fa3st.codestyle.version>1.0.0-SNAPSHOT</fa3st.codestyle.version>
         <fa3st.common.version>1.0.0-SNAPSHOT</fa3st.common.version>
         <fa3st.service-endpoint-opcua.version>1.0.0-SNAPSHOT</fa3st.service-endpoint-opcua.version>
