@@ -117,7 +117,7 @@
         <slf4j.ext.version>1.0.0-jdk6</slf4j.ext.version>
         <slf4j.test.version>3.0.1</slf4j.test.version>
         <slf4j.version>2.0.17</slf4j.version>
-        <snakeyaml.version>2.4</snakeyaml.version>
+        <snakeyaml.version>2.5</snakeyaml.version>
         <spring.boot.version>3.5.4</spring.boot.version>
         <spring.web.version>6.2.10</spring.web.version>
         <systemstubs.version>2.1.8</systemstubs.version>
