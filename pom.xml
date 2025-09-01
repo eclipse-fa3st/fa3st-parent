@@ -36,7 +36,7 @@
     <properties>
         <aas4j.version>1.0.5</aas4j.version>
         <apache.httpclient.version>5.5</apache.httpclient.version>
-        <apache.httpcore.version>5.3.4</apache.httpcore.version>
+        <apache.httpcore.version>5.3.5</apache.httpcore.version>
         <assertj.version>3.27.4</assertj.version>
         <awaitility.version>4.3.0</awaitility.version>
         <bouncycastle.version>1.81</bouncycastle.version>
